@@ -1,0 +1,87 @@
+*{
+    font-size: 14px;
+}
+h1{
+    font-weight: bolder;
+    font-size: 45px;
+}
+h2{
+    font-weight: bolder;
+}
+.header-area{
+    background-color: #FFFBF0;
+}
+.custom-navbar .custom-navbar-nav .custom-navigation-link{
+    color: black;
+}
+.navigation-logo img{
+    height: 32px;
+}
+.navigation-area li{
+    color: black;
+}
+.penguin-button{
+    background-image: linear-gradient(180deg, #A3BB44, #88A31D);
+    padding: 10px 20px;
+    color: white;
+}
+.orange-hedding-text{
+    color: #FABE4C;
+}
+.blue-hidding-text{
+    color: #363958;
+}
+.top-image{
+    width: 80%;
+}
+.responsive-card{
+    border: none;
+    border-radius: 15px;
+}
+.responsive-card-footer{
+    border: none;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.penguin-button img{
+    height: 20px;
+    padding-right: 10px;
+}
+.card-image{
+    background-color: #f1f1f1;
+    border-radius: 10px; 
+    display: flex;   
+    justify-content: center;
+    align-items: center;
+    margin: 16px;
+}
+.card-image img{
+    width: 70%;
+    height: 300px;
+}
+#contact{
+    margin: 100px 0px;
+}
+.contact-image{
+    width: 70%;
+    height: 270px;
+}
+.contact-card-image{
+    width: 60%;
+}
+.contact-card{
+    border: none;
+    border-radius: 15px;
+}
+#subscribe{
+    height: 300px;
+    background-color: #FFFBF0;
+    border-radius: 20px;
+}
+form{
+    text-align: center;
+}
+footer{
+    height: 100px;
+}
